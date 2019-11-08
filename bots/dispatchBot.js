@@ -1,7 +1,6 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
 
-const { ActivityHandler, CardFactory } = require('botbuilder');
 const { LuisRecognizer, QnAMaker } = require('botbuilder-ai');
 
 class DispatchBot extends ActivityHandler {
@@ -96,7 +95,7 @@ class DispatchBot extends ActivityHandler {
         if (results.length > 0) {
             await context.sendActivity(`${ results[0].answer }`);
         } else {
-            await context.sendActivity('Sorry, could not find an answer in the verkoop.');
+            await context.sendActivity('Sorry, kon het antwoord niet vinden in verkoop.');
         }
     }
     async processq_logistiek_KB(context) {
@@ -107,7 +106,7 @@ class DispatchBot extends ActivityHandler {
         if (results2.length > 0) {
             await context.sendActivity(`${ results2[0].answer }`);
         } else {
-            await context.sendActivity('Sorry, could not find an answer in the logistiek.');
+            await context.sendActivity('Sorry, kon het antwoord niet vinden in logistiek.');
         }
     }
     async processq_service_KB(context) {
@@ -118,7 +117,7 @@ class DispatchBot extends ActivityHandler {
         if (results3.length > 0) {
             await context.sendActivity(`${ results3[0].answer }`);
         } else {
-            await context.sendActivity('Sorry, could not find an answer in the service.');
+            await context.sendActivity('Sorry, kon het antwoord niet vinden in service.');
         }
     }
 }

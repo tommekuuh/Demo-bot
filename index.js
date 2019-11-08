@@ -29,7 +29,7 @@ adapter.onTurnError = async (context, error) => {
     //       application insights.
     console.error(`\n [onTurnError]: ${ error }`);
     // Send a message to the user
-    await context.sendActivity(`Oops. Something went wrong!`);
+    await context.sendActivity(`Oeps. er ging iets fout!`);
 };
 
 // Create the main dialog.

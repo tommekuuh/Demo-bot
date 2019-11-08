@@ -1,8 +1,8 @@
-# NLP with Dispatch
+# NLP with Dispatch cleaned
 
 Chatbot based on the NLP with Dispatch bot sample v4 with 3 knowledge bases
 
-This template is modified so it can work with multiple knowledge bases to enble routing of users input.
+This template is modified so it can work with multiple dutch QNA knowledge bases and LUIS for language understanding.
 
 
 ### Prerequisites
@@ -11,15 +11,15 @@ What things you need to install the software and how to install them
 
 Azure paying subscription
 
-Setup the resources:
-Luis services
-3 x Qna Knowledge bases  
-Bot framework emulator
+## Setup the resources:
+- Luis services
+- 3 x Qna Knowledge bases  
+- Bot framework emulator
 
 ### Installing
 
 to use this template you'll need to clone and add the subscription keys to the env file.
-After this the bot has to be trained by performing a dispatch. This dispatch trains the luis service so it can route the input. 
+then the bot has to be trained to be tested. This can be done with the dispatch cli tool
 
 ## Testing the bot using Bot Framework Emulator
 
@@ -43,9 +43,7 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](htt
 
 ## Authors
 
-* **Tommy Gijsberts** - *Setup base chatbot for Acknowledge* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Tommy Gijsberts** - *Setup base chatbot for Acknowledge* - [Tommy Gijsberts](https://github.com/Tommekuuh)
 
 ## Further reading
 
