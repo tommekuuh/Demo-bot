@@ -1,0 +1,11 @@
+Label	Weight	Text
+l_Logistiek	1	waar is mijn bestelling
+l_Verkoop	1	laptop met 1080p resolutie
+q_logistiek-kb	1	RMA
+q_service-kb	1	Ik heb telefonisch of per email een bestelling geplaatst. Kan ik deze nu terug zien in mijn account in de webshop
+q_service-kb	1	Wat is het rekeningnummer van Acknowledge
+q_service-kb	1	Hoe kom ik erachter wanneer een product weer op voorraad is
+q_service-kb	1	Wat gebeurt er als een artikel dat ik besteld heb niet meer verkrijgbaar is
+q_service-kb	1	Hoe kan ik een bestelling annuleren
+q_verkoop-kb	1	Laptop kopen
+q_verkoop-kb	1	Laptop

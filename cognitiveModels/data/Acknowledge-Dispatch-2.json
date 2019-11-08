@@ -1,0 +1,44 @@
+{
+  "luis_schema_version": "3.2.0",
+  "versionId": "Dispatch",
+  "name": "Acknowledge-Dispatch-2",
+  "desc": "Dispatch model for Acknowledge-Dispatch-2",
+  "culture": "nl-nl",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "l_Verkoop"
+    },
+    {
+      "name": "l_Logistiek"
+    },
+    {
+      "name": "l_Service"
+    },
+    {
+      "name": "q_verkoop-kb"
+    },
+    {
+      "name": "q_logistiek-kb"
+    },
+    {
+      "name": "q_service-kb"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    }
+  ]
+}

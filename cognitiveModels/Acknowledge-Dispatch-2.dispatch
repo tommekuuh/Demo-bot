@@ -1,0 +1,78 @@
+{
+  "authoringRegion": "westeurope",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_Verkoop",
+      "appId": "19d31b58-af17-4d89-9e37-deafe93442a6",
+      "authoringKey": "b2379da2929b4b5d8081e631e02d2a11",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "Verkoop-Luis",
+      "id": "1"
+    },
+    {
+      "intentName": "l_Logistiek",
+      "appId": "13af50d2-d8ee-4ebd-a271-41c18547a1d4",
+      "authoringKey": "b2379da2929b4b5d8081e631e02d2a11",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "Logistiek-Luis",
+      "id": "2"
+    },
+    {
+      "intentName": "l_Service",
+      "appId": "273e8697-f935-4a59-a305-01e2df3adbf7",
+      "authoringKey": "b2379da2929b4b5d8081e631e02d2a11",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "Service-Luis",
+      "id": "3"
+    },
+    {
+      "intentName": "q_verkoop-kb",
+      "kbId": "7ace4eb4-dff6-412e-94c0-efc7a1824ed4",
+      "subscriptionKey": "14313e2a701f4ef68f5179584636b47a",
+      "type": "qna",
+      "name": "Verkoop",
+      "id": "4"
+    },
+    {
+      "intentName": "q_logistiek-kb",
+      "kbId": "980aa729-5449-471e-bbee-023df34a83fb",
+      "subscriptionKey": "14313e2a701f4ef68f5179584636b47a",
+      "type": "qna",
+      "name": "Logistiek",
+      "id": "5"
+    },
+    {
+      "intentName": "q_service-kb",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "subscriptionKey": "14313e2a701f4ef68f5179584636b47a",
+      "type": "qna",
+      "name": "Service",
+      "id": "6"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "appId": "0bb117fa-f045-400c-b49e-98597a7383cc",
+  "authoringKey": "b2379da2929b4b5d8081e631e02d2a11",
+  "version": "Dispatch",
+  "region": "westeurope",
+  "type": "dispatch",
+  "name": "Acknowledge-Dispatch-2"
+}

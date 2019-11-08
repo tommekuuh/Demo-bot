@@ -1,0 +1,446 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "Wanneer je een extra account aan wil maken, kun je het beste contact opnemen met het Klant Advies Punt. Deze afdeling is te bereiken via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Hoe maak ik een account aan?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 2,
+      "answer": "Het Klant Advies Punt kan je helpen om de adresgegevens in je account aan het passen. Neem hiervoor contact op via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Hoe kunnen de adresgegevens worden aangepast?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 3,
+      "answer": "Nee, een geplaatste bestelling zie je niet automatisch terug in de webshop. Wil je meer informatie over je bestelling? Neem dan contact op met het Klant Advies Punt via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Ik heb telefonisch of per email een bestelling geplaatst. Kan ik deze nu terug zien in mijn account in de webshop?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 4,
+      "answer": "Onderaan in de webshop vind je de mogelijkheid om je aan-\n\nof af te melden voor de nieuwsbrief.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Hoe kan ik mijzelf aan- of afmelden voor de nieuwsbrief?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 5,
+      "answer": "Ga naar je account en klik op ‘Overzicht’. Hier kun je de volledige bestelgeschiedenis terugvinden.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Hoe kan ik mijn orderhistorie terugkijken?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 6,
+      "answer": "Je wachtwoord kan gewijzigd worden in je account. Klik op ‘Accountgegevens’ en pas je wachtwoord aan.\n\n### Bestellen en Bezorging",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Waar kan ik mijn wachtwoord wijzigen?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 7,
+      "answer": "Wanneer je een kant-en-klaar product hebt besteld wordt deze gewoonlijk de volgende dag geleverd. Bij een spoedbestelling vindt de levering sneller plaats, mits het product op voorraad is. Wanneer er van de aflevertijd wordt afgeweken krijg je hier op tijd een melding van.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Wanneer wordt mijn bestelling geleverd?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 8,
+      "answer": "Je bestelling kan door verschillende vervoerders worden geleverd. We werken onder andere samen met PostNL, DHL, GLS, DPD, Das of UPS.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Welke vervoerder levert de bestellingen?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 9,
+      "answer": "Nadat je een bestelling hebt geplaatst wordt er automatisch een statusemail verstuurd naar het bij ons bekende emailadres. Heb je deze niet ontvangen? Neem dan contact op met het Klant Advies Punt via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)\n\n.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Wat moet ik doen wanneer ik geen bevestigingsemail heb ontvangen?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 10,
+      "answer": "Maximaal 3 dagen na je betaling krijg je hier (indien gewenst) een melding van.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Hoe lang duurt het voordat mijn betaling is verwerkt?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 11,
+      "answer": "Voor een normale levering vragen wij geen kosten. Het is echter ook mogelijk om een expreszending aan te vragen. De kosten hiervoor bedragen €35.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Kan ik met spoed een bestelling opnemen?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 12,
+      "answer": "Je kunt op aanvraag op de hoogte worden gehouden van de levering van je bestelling. Dit kun je aangeven tijdens de orderaanvraag. Heb je jouw bestelling al geplaatst en wil je alsnog op de hoogte worden gebracht van je levering? Vraag dit dan aan bij het Klant Advies Punt via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)\n\n### Prijs en voorraad",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Kan ik de levering van mijn bestelling volgen?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 13,
+      "answer": "Acknowledge werkt samen met verschillende distribiteurs en fabrikanten om je altijd zo snel mogelijk van dienst te kunnen zijn.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Waar komt de voorraad op de webshop vandaan?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 14,
+      "answer": "We brengen geen bezorgkosten in rekening voor reguliere leveringen. Expreszendingen kosten €35.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Worden er bezorgkosten in rekening gebracht?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 15,
+      "answer": "Als een product niet voorradig is staat er een contactbutton bij dit product in de webshop. Door hierop te klikken kun je een aanvraag doen om op de hoogte te worden gebracht zodra het product weer voorradig is.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Hoe kom ik erachter wanneer een product weer op voorraad is?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 16,
+      "answer": "De prijzen in de webshop worden exclusief btw vermeld. Tijdens het afrekenproces wordt het bedrag inclusief btw getoond\n\n### **Over de webshop**",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Worden de prijzen inclusief of exclusief btw vermeld?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 17,
+      "answer": "Heb je feedback of bepaalde wensen. Of wil je een klacht indienen? Dan horen wij dit graag van je. Stuur hiervoor een email naar het Klant Advies Punt via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)\n\n.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Suggesties en klachten"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 18,
+      "answer": "Ga naar je account en klik op ‘Overzicht’. Hier vind je al jouw bestellingen. Klik op de bestelling waarvan je een factuur nodig hebt om deze in te zien. Bij alle bestellingen die je plaatst ontvang je de factuur tevens in je mailbox,\n\n### Service en garantie",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Waar kan ik een factuurkopie vinden?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 19,
+      "answer": "Wanneer een product defect wordt geleverd verzorgen wij de garantieafhandeling voor je. Vul hiervoor een melding in op: \n[https://www.acknowledge.nl/storingsmeldinghardware/](https://www.acknowledge.nl/storingsmeldinghardware/)",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Hoe zit het met de garantie als een product defect is?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 20,
+      "answer": "Dit is geen standaardvoorziening. Het hangt af van de afspraken die je hebt gemaakt.\n\n### Vragen over uw Bestelling",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Krijg ik vervangende hardware wanneer mijn product wordt gerepareerd?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 21,
+      "answer": "We gaan dan meteen op zoek naar een vergelijkbaar of beter product. Deze kunnen we, in overleg, alsnog bij je leveren als alternatief.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Wat gebeurt er als een artikel dat ik besteld heb niet meer verkrijgbaar is?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 22,
+      "answer": "Wanneer je een bestelling wil annuleren kun je het beste zo snel mogelijk contact opnemen met het Klant Advies Punt via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)\n\n.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Hoe kan ik een bestelling annuleren?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 23,
+      "answer": "Wanneer je geen bevestigingsmail hebt binnengekregen kun je allereerst bij je account kijken. Klik op ‘Overzicht’ en controleer of je bestelling hierbij staat. Is dit niet het geval? Dan is de order niet binnengekomen en kun je de bestelling nog een keer plaatsen. Staat je order wel in het overzicht? Neem dan contact op met het Klant Advies Punt via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)\n\n.\n\n### Ruilen en retourneren",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Ik heb een bestelling geplaatst, maar geen bevestiging gekregen."
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 24,
+      "answer": "Wanneer je een product terug wilt sturen kun je het beste eerst contact opnemen met het Klant Advies Punt\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)\n\n. De retourrechten verschillen namelijk per product en merk. Het Klant Advies Punt kan je van de juiste informatie voorzien.\n\n### Betaalmethodes",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Kan ik een product retourneren?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 25,
+      "answer": "Het is mogelijk om bij ons op basis van krediet te betalen.",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Welke betalingsopties biedt Acknowledge?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 26,
+      "answer": "Rabobank\n\n1536 97814\n\nIban NL54 RABO 0153 6978 14\n\nSwift RABO NL2U",
+      "source": "https://webshop.acknowledge.nl/faq",
+      "questions": [
+        "Wat is het rekeningnummer van Acknowledge?"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "d7f7498c-8da0-4e12-bcf8-3a5cd5f02b7c",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    }
+  ]
+}

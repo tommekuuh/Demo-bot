@@ -1,0 +1,8 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_Logistiek	3	22.66667	27	18	4.50925
+1	l_Service	1	21	21	21	NaN
+2	l_Verkoop	5	29.8	43	12	11.64903
+3	q_logistiek-kb	6	18	37	3	13.29662
+4	q_service-kb	26	48.15385	113	22	18.4731
+5	q_verkoop-kb	11	15.90909	28	4	9.0383
+ 	__ALL__	52	34.09615	113	3	20.67608

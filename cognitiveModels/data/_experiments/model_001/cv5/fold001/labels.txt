@@ -1,0 +1,7 @@
+Label	LabelName	Samples
+0	l_Logistiek	3
+1	l_Service	1
+2	l_Verkoop	5
+3	q_logistiek-kb	6
+4	q_service-kb	26
+5	q_verkoop-kb	11

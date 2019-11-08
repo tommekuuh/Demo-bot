@@ -1,0 +1,46 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "Logistiek-Luis",
+  "desc": "logistiek luis app",
+  "culture": "nl-nl",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "bestelstatus"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "track en trace"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "bestelstatus order",
+      "intent": "bestelstatus",
+      "entities": []
+    },
+    {
+      "text": "waar bevind mijn bestelling",
+      "intent": "track en trace",
+      "entities": []
+    },
+    {
+      "text": "waar is mijn bestelling",
+      "intent": "track en trace",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

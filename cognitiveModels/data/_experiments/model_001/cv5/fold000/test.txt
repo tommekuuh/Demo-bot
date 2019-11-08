@@ -1,0 +1,11 @@
+Label	Weight	Text
+l_Logistiek	1	bestelstatus order
+l_Verkoop	1	ik wil kopen
+q_logistiek-kb	1	Status bestelling
+q_service-kb	1	Hoe maak ik een account aan
+q_service-kb	1	Wat moet ik doen wanneer ik geen bevestigingsemail heb ontvangen
+q_service-kb	1	Suggesties en klachten
+q_service-kb	1	Waar kan ik een factuurkopie vinden
+q_service-kb	1	Hoe kan ik mijn orderhistorie terugkijken
+q_verkoop-kb	1	Ik wil een Dell laptop kopen
+q_verkoop-kb	1	Asus laptop

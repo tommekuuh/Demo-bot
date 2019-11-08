@@ -1,0 +1,43 @@
+Label	Weight	Text
+l_Logistiek	1	bestelstatus order
+l_Logistiek	1	waar is mijn bestelling
+l_Service	1	product retour sturen
+l_Verkoop	1	ik wil kopen
+l_Verkoop	1	laptop met 1080p resolutie
+l_Verkoop	1	wat zijn de specs van dit product
+l_Verkoop	1	ik zoek een laptop met een 500gb hard drive
+q_logistiek-kb	1	Status bestelling
+q_logistiek-kb	1	RMA
+q_logistiek-kb	1	Retour
+q_logistiek-kb	1	Wat is de status van mijn bestelling?
+q_logistiek-kb	1	Ik wil een product retouneren.
+q_service-kb	1	Hoe maak ik een account aan
+q_service-kb	1	Wat moet ik doen wanneer ik geen bevestigingsemail heb ontvangen
+q_service-kb	1	Suggesties en klachten
+q_service-kb	1	Waar kan ik een factuurkopie vinden
+q_service-kb	1	Hoe kan ik mijn orderhistorie terugkijken
+q_service-kb	1	Ik heb telefonisch of per email een bestelling geplaatst. Kan ik deze nu terug zien in mijn account in de webshop
+q_service-kb	1	Wat is het rekeningnummer van Acknowledge
+q_service-kb	1	Hoe kom ik erachter wanneer een product weer op voorraad is
+q_service-kb	1	Wat gebeurt er als een artikel dat ik besteld heb niet meer verkrijgbaar is
+q_service-kb	1	Hoe kan ik een bestelling annuleren
+q_service-kb	1	Kan ik een product retourneren
+q_service-kb	1	Worden er bezorgkosten in rekening gebracht
+q_service-kb	1	Welke betalingsopties biedt Acknowledge
+q_service-kb	1	Krijg ik vervangende hardware wanneer mijn product wordt gerepareerd
+q_service-kb	1	Ik heb een bestelling geplaatst, maar geen bevestiging gekregen.
+q_service-kb	1	Worden de prijzen inclusief of exclusief btw vermeld
+q_service-kb	1	Hoe lang duurt het voordat mijn betaling is verwerkt
+q_service-kb	1	Hoe zit het met de garantie als een product defect is
+q_service-kb	1	Kan ik de levering van mijn bestelling volgen
+q_service-kb	1	Welke vervoerder levert de bestellingen
+q_service-kb	1	Kan ik met spoed een bestelling opnemen
+q_verkoop-kb	1	Ik wil een Dell laptop kopen
+q_verkoop-kb	1	Asus laptop
+q_verkoop-kb	1	Laptop kopen
+q_verkoop-kb	1	Laptop
+q_verkoop-kb	1	Macbook
+q_verkoop-kb	1	Ik wil een laptop kopen
+q_verkoop-kb	1	Dell laptop
+q_verkoop-kb	1	Imac
+q_verkoop-kb	1	Ik wil een Asus laptop kopen

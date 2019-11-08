@@ -1,0 +1,95 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "https://webshop.acknowledge.nl/nl/werkplekken/systemen/notebooks",
+      "source": "Editorial",
+      "questions": [
+        "Ik wil een laptop kopen",
+        "Laptop kopen",
+        "Laptop"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "7ace4eb4-dff6-412e-94c0-efc7a1824ed4",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 2,
+      "answer": "https://webshop.acknowledge.nl/nl/werkplekken/systemen/notebooks/apple,apple1",
+      "source": "Editorial",
+      "questions": [
+        "Ik wil een macbook kopen",
+        "Macbook"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "7ace4eb4-dff6-412e-94c0-efc7a1824ed4",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 3,
+      "answer": "https://webshop.acknowledge.nl/nl/werkplekken/systemen/notebooks/asus",
+      "source": "Editorial",
+      "questions": [
+        "Ik wil een Asus laptop kopen",
+        "Asus laptop"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "7ace4eb4-dff6-412e-94c0-efc7a1824ed4",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 4,
+      "answer": "https://webshop.acknowledge.nl/nl/werkplekken/systemen/notebooks/dell",
+      "source": "Editorial",
+      "questions": [
+        "Ik wil een Dell laptop kopen\n",
+        "Dell laptop"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "7ace4eb4-dff6-412e-94c0-efc7a1824ed4",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 5,
+      "answer": "https://webshop.acknowledge.nl/nl/werkplekken/systemen/all-in-one-pc-s/apple,apple1",
+      "source": "Editorial",
+      "questions": [
+        "Ik wil een Imac kopen",
+        "Imac"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "7ace4eb4-dff6-412e-94c0-efc7a1824ed4",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    }
+  ]
+}

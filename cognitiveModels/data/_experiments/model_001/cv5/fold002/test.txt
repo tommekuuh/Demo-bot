@@ -1,0 +1,11 @@
+Label	Weight	Text
+l_Logistiek	1	waar bevind mijn bestelling
+l_Verkoop	1	wat zijn de specs van dit product
+q_logistiek-kb	1	Retour
+q_service-kb	1	Kan ik een product retourneren
+q_service-kb	1	Worden er bezorgkosten in rekening gebracht
+q_service-kb	1	Welke betalingsopties biedt Acknowledge
+q_service-kb	1	Krijg ik vervangende hardware wanneer mijn product wordt gerepareerd
+q_service-kb	1	Ik heb een bestelling geplaatst, maar geen bevestiging gekregen.
+q_verkoop-kb	1	Macbook
+q_verkoop-kb	1	Ik wil een laptop kopen

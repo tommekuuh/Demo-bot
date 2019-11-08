@@ -1,0 +1,58 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "Wanneer je informatie over de bestelling wil zien, kun je het beste contact opnemen met het Klant Advies Punt. Deze afdeling is te bereiken via. \n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)<br>",
+      "source": "Editorial",
+      "questions": [
+        "Wat is de status van mijn bestelling?\n",
+        "Status bestelling"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "980aa729-5449-471e-bbee-023df34a83fb",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 2,
+      "answer": "Wanneer je informatie over Rma en retouren wil zien, kun je het beste contact opnemen met het Klant Advies Punt. Deze afdeling is te bereiken via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)",
+      "source": "Editorial",
+      "questions": [
+        "Ik wil een product retouneren.\n",
+        "RMA",
+        "Retour"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "980aa729-5449-471e-bbee-023df34a83fb",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 3,
+      "answer": "Wanneer je informatie over de Track en Trace wil , kun je het beste contact opnemen met het Klant Advies Punt. Deze afdeling is te bereiken via\n[webshop@acknowledge.nl](mailto:webshop@acknowledge.nl)",
+      "source": "Editorial",
+      "questions": [
+        "Track and Trace"
+      ],
+      "metadata": [],
+      "alternateQuestions": "",
+      "alternateQuestionClusters": [],
+      "changeStatus": "NoChange",
+      "kbId": "980aa729-5449-471e-bbee-023df34a83fb",
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    }
+  ]
+}

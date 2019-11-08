@@ -1,0 +1,305 @@
+﻿{
+  "luis_schema_version": "3.2.0",
+  "versionId": "Dispatch",
+  "name": "Acknowledge-Dispatch-2",
+  "desc": "Dispatch model for Acknowledge-Dispatch-2",
+  "culture": "nl-nl",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "l_Verkoop"
+    },
+    {
+      "name": "l_Logistiek"
+    },
+    {
+      "name": "l_Service"
+    },
+    {
+      "name": "q_verkoop-kb"
+    },
+    {
+      "name": "q_logistiek-kb"
+    },
+    {
+      "name": "q_service-kb"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "bestelstatus order",
+      "intent": "l_Logistiek",
+      "entities": []
+    },
+    {
+      "text": "waar is mijn bestelling",
+      "intent": "l_Logistiek",
+      "entities": []
+    },
+    {
+      "text": "waar bevind mijn bestelling",
+      "intent": "l_Logistiek",
+      "entities": []
+    },
+    {
+      "text": "product retour sturen",
+      "intent": "l_Service",
+      "entities": []
+    },
+    {
+      "text": "ik wil kopen",
+      "intent": "l_Verkoop",
+      "entities": []
+    },
+    {
+      "text": "laptop met 1080p resolutie",
+      "intent": "l_Verkoop",
+      "entities": []
+    },
+    {
+      "text": "wat zijn de specs van dit product",
+      "intent": "l_Verkoop",
+      "entities": []
+    },
+    {
+      "text": "ik wil een laptop met een i5 en 8gb",
+      "intent": "l_Verkoop",
+      "entities": []
+    },
+    {
+      "text": "ik zoek een laptop met een 500gb hard drive",
+      "intent": "l_Verkoop",
+      "entities": []
+    },
+    {
+      "text": "status bestelling",
+      "intent": "q_logistiek-kb",
+      "entities": []
+    },
+    {
+      "text": "rma",
+      "intent": "q_logistiek-kb",
+      "entities": []
+    },
+    {
+      "text": "retour",
+      "intent": "q_logistiek-kb",
+      "entities": []
+    },
+    {
+      "text": "track and trace",
+      "intent": "q_logistiek-kb",
+      "entities": []
+    },
+    {
+      "text": "wat is de status van mijn bestelling?",
+      "intent": "q_logistiek-kb",
+      "entities": []
+    },
+    {
+      "text": "ik wil een product retouneren.",
+      "intent": "q_logistiek-kb",
+      "entities": []
+    },
+    {
+      "text": "hoe maak ik een account aan",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "wat moet ik doen wanneer ik geen bevestigingsemail heb ontvangen",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "suggesties en klachten",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "waar kan ik een factuurkopie vinden",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "hoe kan ik mijn orderhistorie terugkijken",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "ik heb telefonisch of per email een bestelling geplaatst. kan ik deze nu terug zien in mijn account in de webshop",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "wat is het rekeningnummer van acknowledge",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "hoe kom ik erachter wanneer een product weer op voorraad is",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "wat gebeurt er als een artikel dat ik besteld heb niet meer verkrijgbaar is",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "hoe kan ik een bestelling annuleren",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "kan ik een product retourneren",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "worden er bezorgkosten in rekening gebracht",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "welke betalingsopties biedt acknowledge",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "krijg ik vervangende hardware wanneer mijn product wordt gerepareerd",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "ik heb een bestelling geplaatst, maar geen bevestiging gekregen.",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "hoe kan ik mijzelf aan- of afmelden voor de nieuwsbrief",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "waar kan ik mijn wachtwoord wijzigen",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "hoe kunnen de adresgegevens worden aangepast",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "waar komt de voorraad op de webshop vandaan",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "wanneer wordt mijn bestelling geleverd",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "worden de prijzen inclusief of exclusief btw vermeld",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "hoe lang duurt het voordat mijn betaling is verwerkt",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "hoe zit het met de garantie als een product defect is",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "kan ik de levering van mijn bestelling volgen",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "welke vervoerder levert de bestellingen",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "kan ik met spoed een bestelling opnemen",
+      "intent": "q_service-kb",
+      "entities": []
+    },
+    {
+      "text": "ik wil een dell laptop kopen",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "asus laptop",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "laptop kopen",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "laptop",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "macbook",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "ik wil een laptop kopen",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "ik wil een imac kopen",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "ik wil een macbook kopen",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "dell laptop",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "imac",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    },
+    {
+      "text": "ik wil een asus laptop kopen",
+      "intent": "q_verkoop-kb",
+      "entities": []
+    }
+  ],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "luis_schema_version": "4.0.0",
+  "versionId": "0.1",
+  "name": "Verkoop-Luis",
+  "desc": "luis verkoop app",
+  "culture": "nl-nl",
+  "tokenizerVersion": "1.0.0",
+  "intents": [
+    {
+      "name": "kopen"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "productinformatie"
+    }
+  ],
+  "entities": [
+    {
+      "name": "GetProduct",
+      "roles": []
+    },
+    {
+      "name": "Product",
+      "roles": []
+    },
+    {
+      "name": "Specs",
+      "roles": []
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "ik wil een laptop met een i5 en 8gb",
+      "intent": "kopen",
+      "entities": [
+        {
+          "entity": "Product",
+          "startPos": 11,
+          "endPos": 16
+        },
+        {
+          "entity": "Specs",
+          "startPos": 26,
+          "endPos": 27
+        },
+        {
+          "entity": "Specs",
+          "startPos": 32,
+          "endPos": 34
+        }
+      ]
+    },
+    {
+      "text": "ik wil kopen",
+      "intent": "kopen",
+      "entities": [
+        {
+          "entity": "GetProduct",
+          "startPos": 7,
+          "endPos": 11
+        }
+      ]
+    },
+    {
+      "text": "ik zoek een laptop met een 500gb hard drive",
+      "intent": "kopen",
+      "entities": [
+        {
+          "entity": "Specs",
+          "startPos": 27,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "laptop met 1080p resolutie",
+      "intent": "kopen",
+      "entities": [
+        {
+          "entity": "Specs",
+          "startPos": 11,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "wat zijn de specs van dit product",
+      "intent": "productinformatie",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

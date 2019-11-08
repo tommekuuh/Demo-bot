@@ -1,0 +1,11 @@
+Label	Weight	Text
+l_Logistiek	1	waar bevind mijn bestelling
+l_Verkoop	1	ik wil een laptop met een i5 en 8gb
+q_logistiek-kb	1	Track and Trace
+q_service-kb	1	Hoe kan ik mijzelf aan- of afmelden voor de nieuwsbrief
+q_service-kb	1	Waar kan ik mijn wachtwoord wijzigen
+q_service-kb	1	Hoe kunnen de adresgegevens worden aangepast
+q_service-kb	1	Waar komt de voorraad op de webshop vandaan
+q_service-kb	1	Wanneer wordt mijn bestelling geleverd
+q_verkoop-kb	1	Ik wil een Imac kopen
+q_verkoop-kb	1	Ik wil een macbook kopen
