@@ -1,63 +1,25 @@
 # NLP with Dispatch
 
-Bot Framework v4 NLP with Dispatch bot sample
+Chatbot based on the NLP with Dispatch bot sample v4 with 3 knowledge bases
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that relies on multiple [LUIS.ai](https://www.luis.ai) and [QnAMaker.ai](https://www.qnamaker.ai) models for natural language processing (NLP).
+This template is modified so it can work with multiple knowledge bases to enble routing of users input.
 
-Use the Dispatch model in cases when:
 
-- Your bot consists of multiple language modules (LUIS + QnA) and you need assistance in routing user's utterances to these modules in order to integrate the different modules into your bot.
-- Evaluate quality of intents classification of a single LUIS model.
-- Create a text classification model from text files.
+### Prerequisites
 
-## Prerequisites
+What things you need to install the software and how to install them
 
-This sample **requires** prerequisites in order to run.
+Azure paying subscription
 
-### Overview
+Setup the resources:
+Luis services
+3 x Qna Knowledge bases  
+Bot framework emulator
 
-This bot uses the Dispatch service to route utterances as it demonstrates the use of multiple LUIS models and QnA maker services to support multiper conversational scenarios.
+### Installing
 
-- [Node.js](https://nodejs.org) version 10.14 or higher
-
-    ```bash
-    # determine node version
-    node --version
-    ```
-
-### Use Dispatch with Mulitple LUIS and QnA Models
-
-To learn how to configure Dispatch with multiple LUIS models and QnA Maker services, refer to the steps found [here](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0).
-
-## To try this sample
-
-- Clone the repository
-
-    ```bash
-    git clone https://github.com/Microsoft/botbuilder-samples.git
-    ```
-
-- In a terminal, navigate to `samples/javascript_nodejs/14.nlp-with-dispatch`
-
-    ```bash
-    cd samples/javascript_nodejs/14.nlp-with-dispatch
-    ```
-
-- Install modules
-
-    ```bash
-    npm install
-    ```
-
-- Setup Dispatch
-
-    The prerequisite outlined above contain the steps necessary to configure Dispatch with multiple LUIS models and QnA Maker services.  Refer to [Use multiple LUIS and QnA models](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0) for directions to setup and configure Dispatch.
-
-- Start the bot
-
-    ```bash
-    npm start
-    ```
+to use this template you'll need to clone and add the subscription keys to the env file.
+After this the bot has to be trained by performing a dispatch. This dispatch trains the luis service so it can route the input. 
 
 ## Testing the bot using Bot Framework Emulator
 
@@ -78,6 +40,12 @@ Once you are confortable with the concepts presented in this sample, you may wan
 ## Deploy the bot to Azure
 
 To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](https://aka.ms/azuredeployment) for a complete list of deployment instructions.
+
+## Authors
+
+* **Tommy Gijsberts** - *Setup base chatbot for Acknowledge* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Further reading
 
