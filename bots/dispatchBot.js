@@ -1,12 +1,15 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
-
+// construct activity handler + luis recognizer & qna maker
+const { ActivityHandler } = require('botbuilder');
 const { LuisRecognizer, QnAMaker } = require('botbuilder-ai');
+
+// create DispatchBot class to interpret the context
 
 class DispatchBot extends ActivityHandler {
     constructor() {
         super();
-
+// check if luis endpoint and keys are correct
         const dispatchRecognizer = new LuisRecognizer({
             applicationId: process.env.LuisAppId,
             endpointKey: process.env.LuisAPIKey,
@@ -15,7 +18,7 @@ class DispatchBot extends ActivityHandler {
             includeAllIntents: true,
             includeInstanceData: true
         }, true);
-
+// check if qna maker endpoints are correct 
         const qnaMaker = new QnAMaker({
             knowledgeBaseId: process.env.QnAKnowledgebaseId,
             endpointKey: process.env.QnAEndpointKey,
@@ -38,7 +41,7 @@ class DispatchBot extends ActivityHandler {
         this.qnaMaker = qnaMaker;
         this.qnaMaker2 = qnaMaker2;
         this.qnaMaker3 = qnaMaker3;
-
+// check if input context is recognised and if it matches topintent
         this.onMessage(async (context, next) => {
             console.log('Processing Message Activity.');
 
@@ -68,7 +71,7 @@ class DispatchBot extends ActivityHandler {
             await next();
         });
     }
-
+// check if Luis topintent can be found and where the context fits best one of the Knowledge bases. 
     async dispatchToTopIntentAsync(context, intent, recognizerResult) {
         switch (intent) {
         case 'q_verkoop-kb':
@@ -86,7 +89,7 @@ class DispatchBot extends ActivityHandler {
             break;
         }
     }
-
+// Knowledge bases if result if found output result if not found reply try again message 
     async processq_verkoop_KB(context) {
         console.log('processq_verkoop_KB');
 

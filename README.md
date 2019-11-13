@@ -43,7 +43,7 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](htt
 
 ## Authors
 
-* **Tommy Gijsberts** - *Setup base chatbot for Acknowledge* - [Tommy Gijsberts](https://github.com/Tommekuuh)
+* **Tommy Gijsberts** - *Setup base chatbot for Acknowledge* 
 
 ## Further reading
 
