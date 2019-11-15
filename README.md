@@ -1,4 +1,4 @@
-# NLP with Dispatch cleaned
+# NLP with Dispatch bot with multi kb and LUIS
 
 Chatbot based on the NLP with Dispatch bot sample v4 with 3 knowledge bases
 
